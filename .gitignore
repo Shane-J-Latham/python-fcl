@@ -47,6 +47,11 @@ coverage.xml
 *.cover
 .hypothesis/
 
+# Eclipse
+*.project
+*.pydevproject
+
+
 # Translations
 *.mo
 *.pot
